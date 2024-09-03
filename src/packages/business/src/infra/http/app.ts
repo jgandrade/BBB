@@ -2,6 +2,7 @@ import express, { Express, Response } from "express";
 import cors from "cors";
 import { credentials } from "./middleware/cors";
 import { corsOptions } from "./config/corsOptions";
+import "../mongoose/mongooseConnect";
 
 const app: Express = express();
 const port = process.env.PORT;

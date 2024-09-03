@@ -1,10 +1,6 @@
 # Business Package
 
-This package, **business**, is a part of the Fruit Storage Task project. It contains the core business logic and domain models.
-
-## Description
-
-A Fruit Storage Task that demonstrates Clean Architecture and Domain Driven Design.
+This package, **business** It contains the core business logic and domain models.
 
 ## Scripts
 
